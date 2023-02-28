@@ -16,5 +16,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "react-router-dom": "^6.8.0"
   }
 }
